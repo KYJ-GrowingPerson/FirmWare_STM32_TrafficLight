@@ -8,10 +8,7 @@
 
 - 74HC595 Shift Register 사용
 
-<img src="images/전체사진.png" />
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd960ce4-9145-48ac-96c6-3e1ba2ed6a81/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/80a4cecd-8a85-4289-b1bc-a9abd36b29bf/Untitled.png)
+<img src="images/74HC595.png" />
 
 - 74HC595에 대한 설명
 
@@ -24,8 +21,7 @@
 | 11 | SH_CP (Shift Register Clock Pin) 으로 DS핀의 입력의 받고, 다른 플립플롭으로 데이터가 이동(시프트)하는 트리거가 됩니다. |
 | 10 | ResetPin에 해당합니다. ActiveLow이기 때문에 초기화를 원하지 않으면 VCC에 넣습니다. |
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/951968d1-5736-4892-b148-f4ec66c86b77/Untitled.png)
-
+<img src="images/74HC595_FULL.png" />
 74HC595 의 로직다이어그램
 
 1. OE핀에 HIGH를 주게 되면, 3 state buffer에 0이 들어가며, 회로가 Open된 것과 마찬가지 이므로 아무런 출력이 되지 않게 됩니다.
