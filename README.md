@@ -8,6 +8,7 @@
 
 - 74HC595 Shift Register 사용
 
+<img src="/image/전체사진.png" />
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd960ce4-9145-48ac-96c6-3e1ba2ed6a81/Untitled.png)
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/80a4cecd-8a85-4289-b1bc-a9abd36b29bf/Untitled.png)
