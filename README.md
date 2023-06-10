@@ -21,7 +21,9 @@
 | 11 | SH_CP (Shift Register Clock Pin) 으로 DS핀의 입력의 받고, 다른 플립플롭으로 데이터가 이동(시프트)하는 트리거가 됩니다. |
 | 10 | ResetPin에 해당합니다. ActiveLow이기 때문에 초기화를 원하지 않으면 VCC에 넣습니다. |
 
-<img src="images/74HC595_FULL.png" />
+<img src="images/74HC595_FULL.png" 
+  width="40%"
+  height="40%"/>
 74HC595 의 로직다이어그램
 
 1. OE핀에 HIGH를 주게 되면, 3 state buffer에 0이 들어가며, 회로가 Open된 것과 마찬가지 이므로 아무런 출력이 되지 않게 됩니다.
