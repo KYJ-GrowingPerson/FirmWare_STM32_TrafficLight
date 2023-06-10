@@ -2,7 +2,14 @@
 
 # 펌웨어 STM32 보드로 신호등(4거리) 구현하기
 
-## 1. 기본동작
+## 전체사진
+<img src="images/전체사진.png" 
+  width="50%"
+  height="50%"/>
+  
+  <img src="images/회로도.png" 
+  width="50%"
+  height="50%"/>
 
 ### 4거리 신호등
 
